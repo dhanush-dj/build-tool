@@ -34,4 +34,5 @@ file(){
 
  //   return 0;
 }
+add __attribute_const__
 
